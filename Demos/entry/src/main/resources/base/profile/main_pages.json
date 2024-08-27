@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/router/pushAndReplace/SourcePage",
+    "pages/router/pushAndReplace/TargetPage",
+    "pages/router/back/FromPage",
+    "pages/router/back/ToPage",
+    "pages/router/params/StartPage",
+    "pages/router/params/EndPage",
+    "pages/lifecircle/PageA",
+    "pages/lifecircle/PageB",
+    "pages/axios/solution/AxiosPage",
+    "pages/storage/appStorage/PageOne",
+    "pages/storage/appStorage/PageTwo",
+    "pages/storage/appStorage/PageThree"
+  ]
+}

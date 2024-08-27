@@ -1,0 +1,12 @@
+{
+  "integer": [
+    {
+      "name": "width",
+      "value": 150
+    },
+    {
+      "name": "height",
+      "value": 150
+    }
+  ]
+}

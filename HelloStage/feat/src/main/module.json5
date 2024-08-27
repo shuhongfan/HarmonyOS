@@ -1,0 +1,27 @@
+{
+  "module": {
+    "name": "feat",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "FeatAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "FeatAbility",
+        "srcEntry": "./ets/featability/FeatAbility.ts",
+        "description": "$string:FeatAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:FeatAbility_label",
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

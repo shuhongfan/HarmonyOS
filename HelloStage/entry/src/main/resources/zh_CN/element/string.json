@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "主模块"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "form_label"
+    }
+  ]
+}
